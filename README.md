@@ -1,4 +1,4 @@
-#REACT-BOILERPLATE-JOS
+# REACT-BOILERPLATE-JOS
 *Sorry for the awkward name, haha*
 
 
