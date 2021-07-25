@@ -1,13 +1,13 @@
 {
   "name": "react-boilerplate-jos",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve"
   },
   "bin": {
-    "react-boilerplate-jos": "./generate-app.js"
+    "react-boilerplate-jos": "./bin/generate-app.js"
   },
   "repository": {
     "type": "git",

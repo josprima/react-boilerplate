@@ -44,7 +44,7 @@ async function main() {
     fs.rmdirSync(path.join(projectPath, 'bin'), { recursive: true });
     console.log('The instalation is done');
   } catch (error) {
-
+    console.log(error);
   }
 }
 
