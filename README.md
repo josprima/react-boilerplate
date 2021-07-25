@@ -6,7 +6,7 @@
 This is the my react setup. so every time i want to start a new react project, i simply type 1 line command in my terminal and all setup is done.
 
 ## Why not used create-react-app ?
-Sometimes there is something that i want to customize from create-react-app, and i feel like not find a good way to custom a create-react-app configuration.
+Sometimes there is something that i want to customize from create-react-app, and i not find a good way to custom a create-react-app configuration yet.
 
 ## How to use
 ```
